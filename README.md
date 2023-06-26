@@ -1,5 +1,5 @@
 # Dissertation Project
-I undertook this dissertation in my final year studying BSc Computer Science at Durham University. The focus of the project was to investigate the generation of synthetic infrared drone imagery for the purpose of improving detection for Counter-UAV Systems. This repository contains the final report based on my investigations and experiments [dissertation paper](https://github.com/Jacob-Ismail-Curtis/synthetic-ir-drone-detection/project_report.pdf).
+I undertook this dissertation in my final year studying BSc Computer Science at Durham University. The focus of the project was to investigate the generation of synthetic infrared drone imagery for the purpose of improving detection for Counter-UAV Systems. This repository contains the [final report](https://github.com/Jacob-Ismail-Curtis/synthetic-ir-drone-detection/project_report.pdf based on my investigations and experiments.
 
 ## Abstract
 
