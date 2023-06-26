@@ -10,6 +10,6 @@ This paper presents a novel approach for enhancing infrared (IR) drone detection
 Future work based on the dissertation conclusion includes exploring drone classification by developing a dataset specifically designed for this purpose, examining the performance of two-stage detectors like Faster R-CNN for drone detection, expanding the research to include other drone model types such as fixed-wing drones and exploring the detection of other flying objects like helicopters and planes. Additionally, conducting an ablation study to quantify the effects of individual post-processing techniques used for synthetic data generation, validating the effectiveness of synthetic IR training data on unseen datasets, and integrating the drone detection system into a comprehensive monitoring system by merging it with a generic object tracker are suggested avenues for further research.
 
 ## Feedback
-The final mark received for the whole project was **76%**, of which I am very proud.
+The final mark received for the whole project was **76%** (high first class).
 
 > By [Jacob-Ismail-Curtis](https://github.com/Jacob-Ismail-Curtis).
